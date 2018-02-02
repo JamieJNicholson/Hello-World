@@ -1,2 +1,2 @@
 # Hello-World
-Github Newbie Test
+Git Newbie Practice Test 
